@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="103.55.191.39" id="45580b1e-e65c-4ad3-8518-f25701fb77d9" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="PASSWORD" host="222.114.95.226" id="d068aa97-8d80-4f3d-99d1-f63b77150950" port="22" nameFormat="DESCRIPTIVE" username="erp" />
+      <sshConfig authType="PASSWORD" host="175.204.33.132" id="c0bf58c5-549d-4c86-9c1a-7be515f4d983" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="139.150.72.129" id="250f4f9b-0d89-4e94-b3df-94684fc9ba7a" port="22" customName="139.150.72.129" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="139.150.72.129" />
+      </sshConfig>
+      <sshConfig host="52.78.106.82" id="b2ba19c9-4440-423c-8db3-b7077dbeea3a" keyPath="C:\Users\USER\Downloads\new_rnd_key2.ppk" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="PASSWORD" host="45.115.155.199" id="6df7fe0c-4b06-49d3-b06f-b12c5d27e28a" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="PASSWORD" host="141.164.42.94" id="138378fc-eea2-409d-8c2c-e753de6bfd85" port="22" nameFormat="DESCRIPTIVE" username="nft" />
+      <sshConfig host="52.78.106.82" id="525977f7-7bc9-4fb4-9b05-5e8575057524" keyPath="C:\Users\USER\Downloads\new_rnd_key2.ppk" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
+    </configs>
+  </component>
+</project>

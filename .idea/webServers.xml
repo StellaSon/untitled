@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="48f23e77-52b4-478d-bb30-536f31ff54b9" name="aptners123.cafe24.com" url="http://aptners123.cafe24.com">
+        <fileTransfer host="aptners123.cafe24.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d10b6fe7-d703-407f-bcde-fc09b5ec39f4" name="a2pkr.cgimall.co.kr" url="http://a2p.kr">
+        <fileTransfer host="a2p.kr" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c52264c0-0ccd-4c2b-8288-a63fba7eb2ee" name="139.150.72.129">
+        <fileTransfer rootFolder="/home/www/" accessType="SFTP" host="139.150.72.129" port="22" sshConfigId="250f4f9b-0d89-4e94-b3df-94684fc9ba7a" sshConfig="139.150.72.129">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4e46e784-0c85-4be6-9739-6bb9407454f7" name="45.115.155.199">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="45.115.155.199" port="22" sshConfigId="6df7fe0c-4b06-49d3-b06f-b12c5d27e28a" sshConfig="root@45.115.155.199:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="5d39312e-d15b-4382-a9da-2b9427f67e29" name="smartsem.cafe24.com" url="http://smartsem.cafe24.com">
+        <fileTransfer host="smartsem.cafe24.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="37abf843-7b7a-4621-aea4-0ad74344d5d7" name="141.164.42.94" url="http://141.164.42.94">
+        <fileTransfer accessType="SFTP" host="141.164.42.94" port="22" sshConfigId="138378fc-eea2-409d-8c2c-e753de6bfd85" sshConfig="nft@141.164.42.94:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="9ca16c39-4805-4ce1-b165-c88cef251d36" name="52.78.106.82">
+        <fileTransfer rootFolder="/var/www/html" accessType="SFTP" host="52.78.106.82" port="22" sshConfigId="b2ba19c9-4440-423c-8db3-b7077dbeea3a" sshConfig="root@52.78.106.82:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="2463165e-6d95-471c-ade5-4bc50938e8fa" name="holagoody001.cafe24.com" url="http://holagoody001.cafe24.com">
+        <fileTransfer host="holagoody001.cafe24.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="e274a59f-1b66-4e70-bde1-2250659bea89" name="sinmama0176.cafe24.com" url="http://sinmama0176.cafe24.com">
+        <fileTransfer host="sinmama0176.cafe24.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
